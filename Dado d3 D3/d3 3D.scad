@@ -53,7 +53,7 @@ difference() {
           translate([0, 0, 5]){
             // size is multiplied by 0.75 because openScad font sizes are in points, not pixels
             linear_extrude( height=2, twist=0, center=false){
-              text("3", font = "Roboto", size = 7*0.75, halign="center";   valign="center");
+              text("1", font = "Roboto", size = 7*0.75, halign="center";   valign="center");
             }
 
           }
@@ -67,7 +67,7 @@ difference() {
                 mirror([1,0,0]){
                   // size is multiplied by 0.75 because openScad font sizes are in points, not pixels
                   linear_extrude( height=2, twist=0, center=false){
-                    text("1", font = "Roboto", size = 7*0.75, halign="center";   valign="center");
+                    text("3", font = "Roboto", size = 7*0.75, halign="center";   valign="center");
                   }
 
                 }
@@ -83,7 +83,7 @@ difference() {
               translate([0, 0, 5]){
                 mirror([1,0,0]){
                   // size is multiplied by 0.75 because openScad font sizes are in points, not pixels
-                  linear_extrude( height=2, twist=0, center=false){
+                  linear_extrude( height=1.2, twist=0, center=false){
                     text("2", font = "Roboto", size = 7*0.75, halign="center";   valign="center");
                   }
 
@@ -185,7 +185,7 @@ difference() {
     }
   }
   rotate([305, 0, 0]){
-    translate([-4, 1, 5]){
+    translate([-4, 1, 6]){
       scale([1, 0.8, 1]){
         difference() {
           union(){
