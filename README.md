@@ -21,3 +21,17 @@ Cuernos para una marioneta de gamusino del juego de rol Pequeños Detectives de 
 * [Archivo OpenScad](https://github.com/lobotic/3D/blob/main/CuernosDeGamusino/CuernosDeGamusino.scad)
 
 * [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/CuernosDeGamusino/CuernosDeGamusino.xml)
+
+
+## Bender Phone Holder
+
+Bender sujeta tu movil de un mordisco para que puedas ver tu serie favorita
+
+![Imagen](https://github.com/lobotic/3D/blob/main/Bender%20Phone%20Holder/Bender%20Phole%20Holder.jpg)
+
+* [Archivo STL](https://github.com/lobotic/3D/blob/main/Bender%20Phone%20Holder/Bender%20Phone%20Holder.stl)
+
+* [Archivo OpenScad](https://github.com/lobotic/3D/blob/main/Bender%20Phone%20Holder/Bender_Phone_Holder.scad)
+
+* [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/Bender%20Phone%20Holder/Bender%20Phone%20Holder.xml)
+
