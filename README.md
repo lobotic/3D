@@ -28,6 +28,9 @@ Cuernos para una marioneta de gamusino del juego de rol Pequeños Detectives de 
 Bender sujeta tu movil de un mordisco para que puedas ver tu serie favorita
 
 ![Imagen](https://github.com/lobotic/3D/blob/main/Bender%20Phone%20Holder/Bender%20Phole%20Holder.jpg)
+        <img src="https://github.com/lobotic/3D/blob/main/Bender%20Phone%20Holder/Bender%20Phole%20Holder.jpg" width="370" height="250">
+
+
 
 * [Archivo STL](https://github.com/lobotic/3D/blob/main/Bender%20Phone%20Holder/Bender%20Phone%20Holder.stl)
 
