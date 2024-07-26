@@ -1,6 +1,19 @@
 # 3D
 Movidas 3D
 
+## Amuletos Gatas Miedicas
+
+Amuleto con oos de LED de la serie Gats Miedicas
+
+![Imagen](https://github.com/lobotic/3D/blob/main/Scaredy%20Cats%20Amulet/Scaredy%20cats%20amulet.png)
+
+* [Archivo STL](https://github.com/lobotic/3D/blob/main/Scaredy%20Cats%20Amulet/Scaredy%20cats%20amulet.stl)
+
+* [Archivo OpenScad](https://github.com/lobotic/3D/blob/main/Scaredy%20Cats%20Amulet/Scaredy%20cats%20amulet.scad)
+
+* [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/Scaredy%20Cats%20Amulet/Scaredy%20cats%20amulet.xml)
+  
+* [Pequeña guía de montaje](https://github.com/lobotic/3D/blob/main/Scaredy%20Cats%20Amulet/Scaredy%20Cats%20Amulet.pdf)
 
 ## d3 D3
 
