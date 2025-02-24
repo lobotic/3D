@@ -1,8 +1,8 @@
 # Brazos para el robot True True
 
-![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True1.jpg)
+![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True1.jpeg)
 
-![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True2.jpg)
+![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True2.jpeg)
 
 ![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.jpg)
 
