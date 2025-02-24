@@ -3,6 +3,19 @@ Movidas 3D
 
 ## Amuletos Gatas Miedicas
 
+Brazos para el robot True True
+
+![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.jpg)
+
+* [Archivo STL](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.stl)
+
+* [Archivo OpenScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.scad)
+
+* [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.xml)
+
+
+## Amuletos Gatas Miedicas
+
 Amuleto con oos de LED de la serie Gats Miedicas
 
 ![Imagen](https://github.com/lobotic/3D/blob/main/Scaredy%20Cats%20Amulet/Scaredy%20cats%20amulet.png)
