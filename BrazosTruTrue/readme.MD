@@ -13,10 +13,10 @@
 * [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.xml)
 
 
-![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.jpg)
+![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.jpg)
 
-* [Archivo STL](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.stl)
+* [Archivo STL](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.stl)
 
-* [Archivo OpenScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.scad)
+* [Archivo OpenScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.scad)
 
-* [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.xml)
+* [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.xml)
