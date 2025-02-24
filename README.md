@@ -14,6 +14,16 @@ Brazos para el robot True True
 * [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.xml)
 
 
+![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.jpg)
+
+* [Archivo STL](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.stl)
+
+* [Archivo OpenScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.scad)
+
+* [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.xml)
+
+
+
 ## Amuletos Gatas Miedicas
 
 Amuleto con oos de LED de la serie Gats Miedicas
