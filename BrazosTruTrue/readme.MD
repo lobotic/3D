@@ -12,7 +12,7 @@
 
 * [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20True%20True.xml)
 
-([![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/pintatruetrue.png)])(https://www.youtube.com/watch?v=zC4Nh42wJbM)
+[([![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/pintatrutrue.png)]](https://www.youtube.com/watch?v=zC4Nh42wJbM)
 
 ![Imagen](https://github.com/lobotic/3D/blob/main/BrazosTruTrue/Brazos%20TrueTrue%20%2B%20porta-Rotu.jpg)
 
