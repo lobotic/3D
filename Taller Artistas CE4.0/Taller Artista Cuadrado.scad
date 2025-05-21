@@ -7,7 +7,7 @@ difference() {
     rotate([0, 0, i]){
       translate([55, 0, 0]){
         rotate([90, 0, 0]){
-          cube([75, 75, 3.1], center=true);
+          cube([75, 75, 3.2], center=true);
         }
       }
     }
