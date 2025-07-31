@@ -1,6 +1,19 @@
 # 3D
 Movidas 3D
 
+## Colgante Solecito
+Colgante en forma de sol con un LED central.
+
+![Imagen](https://github.com/lobotic/3D/blob/main/Solecito/Solecito.jpg)
+
+* [Archivo STL](https://github.com/lobotic/3D/blob/main/Solecito/Solecito.stl)
+
+* [Archivo OpenScad](https://github.com/lobotic/3D/blob/main/Solecito/Solecito.scad)
+
+* [Bloques BlockScad](https://github.com/lobotic/3D/blob/main/Solecito/Solecito.xml)
+
+
+
 ## Brazos para el robot True True
 
 Brazos para el robot True True
@@ -26,7 +39,7 @@ Brazos para el robot True True
 
 ## Amuletos Gatas Miedicas
 
-Amuleto con oos de LED de la serie Gats Miedicas
+Amuleto con ojos de LED de la serie Gatas Miedicas
 
 ![Imagen](https://github.com/lobotic/3D/blob/main/Scaredy%20Cats%20Amulet/Scaredy%20cats%20amulet.png)
 
